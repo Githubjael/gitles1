@@ -1,0 +1,23 @@
+body {
+  background-color: rgb(216, 222, 224);
+}
+
+h1 {
+  color: lightgreen;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+
+fieldset {
+  align-self: center;
+  color: lightgreen;
+  width: 400px;
+  height: 100px;
+}
+.center{
+  text-align: center;
+}
